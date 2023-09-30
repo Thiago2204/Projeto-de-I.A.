@@ -1,4 +1,19 @@
 # Projeto de Ciências de Dados
+## Alunos
+| **Nome**  | **TIA** |
+| ------------- | ------------- |
+|  |  |
+| Pedro Henrique Camargo | 32290357 |
+| Pedro Lopes de Lucena | 32055633 |
+| Vinicius Siqueira Mendes Francisco | 31759378 |
+| Thiago Henrique Quadrado Estacio | 42012740 |
+
+
+
+
+
+
+
 
 ## Objetivo
 
