@@ -16,4 +16,4 @@ Em todos os casos os projetos devem empregar dados originais, isto é, **dados p
 
 ### Primeiro Bimestre (N1)
 
-**Data**: 01.Outubro
+**Data**: 01/10/2023
