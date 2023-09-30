@@ -12,8 +12,5 @@ Os alunos devem escolher uma dentre as seguintes opções:
 
 Em todos os casos os projetos devem empregar dados originais, isto é, **dados próprios de uma empresa ou negócio** (na dúvida sobre a validade dos dados a ser empregado, consulte o professor).
 
-## Entregas
+## [Entregas]()
 
-### Primeiro Bimestre (N1)
-
-**Data**: 01/10/2023
